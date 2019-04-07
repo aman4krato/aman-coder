@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-04-06T12:43:28Z" name="Default suite" finished-at="2019-04-06T12:43:28Z" duration-ms="168">
+    <groups>
+    </groups>
+    <test started-at="2019-04-06T12:43:28Z" name="Default test" finished-at="2019-04-06T12:43:28Z" duration-ms="168">
+      <class name="second.priority.org.Both_priority_non_prioritized">
+        <test-method signature="b_method()[pri:0, instance:second.priority.org.Both_priority_non_prioritized@24aed80c]" started-at="2019-04-06T18:13:28Z" name="b_method" finished-at="2019-04-06T18:13:28Z" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b_method -->
+        <test-method signature="c_method()[pri:0, instance:second.priority.org.Both_priority_non_prioritized@24aed80c]" started-at="2019-04-06T18:13:28Z" name="c_method" finished-at="2019-04-06T18:13:28Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c_method -->
+        <test-method signature="e_method()[pri:0, instance:second.priority.org.Both_priority_non_prioritized@24aed80c]" started-at="2019-04-06T18:13:28Z" name="e_method" finished-at="2019-04-06T18:13:28Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- e_method -->
+        <test-method signature="a_method()[pri:6, instance:second.priority.org.Both_priority_non_prioritized@24aed80c]" started-at="2019-04-06T18:13:28Z" name="a_method" finished-at="2019-04-06T18:13:28Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a_method -->
+        <test-method signature="d_method()[pri:6, instance:second.priority.org.Both_priority_non_prioritized@24aed80c]" started-at="2019-04-06T18:13:28Z" name="d_method" finished-at="2019-04-06T18:13:28Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d_method -->
+      </class> <!-- second.priority.org.Both_priority_non_prioritized -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
